@@ -213,3 +213,13 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 
 
 ![My Remote Image](https://drive.google.com/uc?id=10QVUnUl8g5xCAmk3AvhGsysTZC-zdTc8)
+
+
+
+### References:
+- [Installing Kubernetes Cluster using kubeadm](https://github.com/justmeandopensource/kubernetes/blob/master/docs/install-cluster-ubuntu-20.md) 
+- [NetworkNuts Training Videos](https://www.youtube.com/results?search_query=Network+nuts) 
+- [Sample Microservice installation using Instana](https://www.instana.com/blog/sample-microservices-application-kubernetes/)
+- [Perfromance Test Microservices on Kubernetes](https://developers.redhat.com/articles/2021/12/16/elegant-way-performance-test-microservices-kubernetes) 
+- [Ansible Documentation](https://docs.ansible.com/) 
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
